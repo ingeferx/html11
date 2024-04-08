@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nosotros</title>
+</head>
+<body>
+    <body style="background-color:rgb(238, 201, 99);">
+        <!--titulos del body-->
+        <h1 style="color: rgb(0, 0, 0); font-family: cursive; font-size: 50px;">Nosotros</h1>
+        <hr> 
+        <a href="index.html">Inicio</a>
+                <a href="contactos.html">Contacto</a>
+                <a href="nosotros">Nosotros</a> <br>
+        <h2> Información personal</h2><br>
+       
+    <img src="imagenes/Curriculum Vitae Hoja de Vida CV Minimalista Azul y Gris.jpg" html" width="700" height="1000">
+</body>
+</html>
