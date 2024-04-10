@@ -1,0 +1,10 @@
+/*tipo id*/
+#titulo{
+    color:rgb(0, 255, 98);
+    text-align: right;
+}
+/*tipo universal*/
+*{
+    background-color: rgb(2, 0, 100);
+    color: rgb(44, 206, 53);
+}
